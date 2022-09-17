@@ -1,0 +1,17 @@
+#loader 
+{
+    width: 250px;
+    height: 250px;
+    left: 40%;
+    top: 25%;
+    margin-top: 12%;
+    background: url('../images/loader1.gif') no-repeat;
+    background-size: 250px 250px;
+    position: relative;
+
+}
+
+#mainContent
+{
+    display: none;
+}
